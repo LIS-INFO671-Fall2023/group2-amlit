@@ -21,7 +21,7 @@ DPLA hosts the above collections separately, but we have selected works that wer
 Objects were selected from DPLA primary source collections for the following literary materials:
 
 - To Kill a Mockingbird by Harper Lee
-- A Raisiin in the Sun by Lorraine Hansberry
+- A Raisin in the Sun by Lorraine Hansberry
 - Invisible Man by Ralph Ellison
 - The Fire Next Time by James Baldwin
 
