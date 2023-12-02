@@ -32,8 +32,3 @@ Our metadata schema includes descriptive metadata that will help users locate ob
 View our complete scheme description at [Group 2 Metadata Schema](https://docs.google.com/document/d/1qjtAvD4ankgUtfmNeOAgnE5RF9B6k3d7/edit?usp=sharing&ouid=112848953679809247524&rtpof=true&sd=true).
 
 
-
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-
