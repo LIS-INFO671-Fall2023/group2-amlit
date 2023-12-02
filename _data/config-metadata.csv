@@ -10,8 +10,11 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 identifier,Source Identifier,,
+object-provenance, Provenance
 related_publication, Related Publication
+realtionship-to-book, Relationship to Publication
 type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
+language, Language
