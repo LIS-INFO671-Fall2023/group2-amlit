@@ -29,7 +29,7 @@ Users of this collection could be researchers or people with an interest in the 
 
 ## About the Metadata Schema
 Our metadata schema includes descriptive metadata that will help users locate objects of interest. There is also administrative data that provides information on the copyright of the items, as well as their file sizes. Technical metadata includes file format, which is useful if people want to download any objects. Structural metadata includes relationships between the objects and the book or play. 
-View our complete scheme description at [Group 2 Metadata Schema] (https://docs.google.com/document/d/1qjtAvD4ankgUtfmNeOAgnE5RF9B6k3d7/edit?usp=sharing&ouid=112848953679809247524&rtpof=true&sd=true).
+View our complete scheme description at [Group 2 Metadata Schema](https://docs.google.com/document/d/1qjtAvD4ankgUtfmNeOAgnE5RF9B6k3d7/edit?usp=sharing&ouid=112848953679809247524&rtpof=true&sd=true).
 
 
 
